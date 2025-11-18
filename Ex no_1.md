@@ -13,14 +13,21 @@ Algorithm
 Program:
 
 #include<stdio.h>
+
 int main()
+
 {
+
 float a 5.800000;
+
 printf ("%.1f",a);
+
 return 0;
+
 }
 
-## Output:
+Output:
+<img width="429" height="148" alt="image" src="https://github.com/user-attachments/assets/8e2cc20e-0643-4ca9-bf72-699c9c82466f" />
 
 
 
