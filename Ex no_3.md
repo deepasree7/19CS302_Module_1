@@ -13,7 +13,7 @@ To write a C program to find number of years based on principle, rate & simple i
 5. Calculate the number of years using the formula:
 6. End.
 
-Program:
+## Program:
 
 #include <stdio.h>
 
