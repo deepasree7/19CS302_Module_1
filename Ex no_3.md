@@ -31,13 +31,15 @@ s1=((p*n*r)/100);
 
 c1=(p)*(pow((1+r/100),n));
 
-printf("Simple Interest = %0.2f\nCompound Interest = %0.2f", si,ci); return 0; 
+printf("Simple Interest = %0.2f\nCompound Interest = %0.2f", si,ci); 
+
+return 0; 
 
 }
 
 ## Output:
 
-<img width="4350" height="980" alt="image" src="https://github.com/user-attachments/assets/fcf354a6-06c1-4400-a94d-45f4aba072b5" />
+<img width="520" height="212" alt="image" src="https://github.com/user-attachments/assets/6054a7ec-256c-4918-8a46-432be17dde2d" />
 
 
 
