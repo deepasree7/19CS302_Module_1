@@ -1,6 +1,6 @@
 # EX 1 C program to initialize the value as 5.8 & display the same.
 ## DATE:
-AIM:
+##AIM:
 To write a program to initialize the value as 5.8 & display the same.
 
 Algorithm
@@ -10,7 +10,7 @@ Algorithm
 4. Print the value of value using printf.
 5. End.
 
-Program:
+##Program:
 
 #include<stdio.h>
 
@@ -26,10 +26,11 @@ return 0;
 
 }
 
-Output:
+##Output:
+
 <img width="429" height="148" alt="image" src="https://github.com/user-attachments/assets/8e2cc20e-0643-4ca9-bf72-699c9c82466f" />
 
 
 
-Result:
+##Result:
 Thus the program was executed and the output was verified successfully.
