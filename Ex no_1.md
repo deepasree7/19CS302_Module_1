@@ -1,6 +1,7 @@
 # EX 1 C program to initialize the value as 5.8 & display the same.
 ## DATE:
-##AIM:
+AIM:
+
 To write a program to initialize the value as 5.8 & display the same.
 
 Algorithm
